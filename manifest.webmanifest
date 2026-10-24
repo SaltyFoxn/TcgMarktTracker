@@ -1,0 +1,14 @@
+{
+  "name": "CardVault – TCG Market Tracker",
+  "short_name": "CardVault",
+  "description": "Lokale TCG-Sammlung und Preisbeobachtungen",
+  "lang": "de-DE",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101116",
+  "theme_color": "#101116",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
