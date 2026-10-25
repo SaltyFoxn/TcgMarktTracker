@@ -1,1 +1,1 @@
-*Keine Ahnung v0.1 :-D
+*Ich habe keine Ahnung was ich hier mache.
