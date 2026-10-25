@@ -1,9 +1,9 @@
 {
-  "name": "CardVault TCG Tracker Test",
+  "name": "CardVault – TCG Tracker",
   "short_name": "CardVault",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#10131a",
   "theme_color": "#10131a",
-  "icons": []
+  "description": "Privater TCG-Kartenkatalog und Marktwert-Tracker"
 }
